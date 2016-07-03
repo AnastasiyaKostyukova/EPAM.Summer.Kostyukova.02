@@ -1,0 +1,5 @@
+D:\Training\Day 2\Day2Task2\LogiсOfEuclideanAlgorithm\bin\Debug\LogiсOfEuclideanAlgorithm.dll
+D:\Training\Day 2\Day2Task2\LogiсOfEuclideanAlgorithm\bin\Debug\LogiсOfEuclideanAlgorithm.pdb
+D:\Training\Day 2\Day2Task2\LogiсOfEuclideanAlgorithm\obj\Debug\LogiсOfEuclideanAlgorithm.csprojResolveAssemblyReference.cache
+D:\Training\Day 2\Day2Task2\LogiсOfEuclideanAlgorithm\obj\Debug\LogiсOfEuclideanAlgorithm.dll
+D:\Training\Day 2\Day2Task2\LogiсOfEuclideanAlgorithm\obj\Debug\LogiсOfEuclideanAlgorithm.pdb
